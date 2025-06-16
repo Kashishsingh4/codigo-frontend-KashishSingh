@@ -2,6 +2,14 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
+##Clone the Repository
+1. Clone your Repository
+   ```bash
+      git clone https://github.com/your-username/codigo-frontend.git
+      cd repo-name
+   ```
+
+
 ## Get started
 
 1. Install dependencies
