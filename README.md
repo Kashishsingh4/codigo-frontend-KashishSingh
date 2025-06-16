@@ -5,7 +5,7 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 ##Clone the Repository
 1. Clone your Repository
    ```bash
-      git clone https://github.com/your-username/codigo-frontend.git
+      git clone https://github.com/your-username/your-repo-name.git
       cd repo-name
    ```
 
